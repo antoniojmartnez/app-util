@@ -1,5 +1,3 @@
-package com.ibs.tecnicos.seyte.app;
-
 import android.annotation.TargetApi;
 import android.app.AlertDialog;
 import android.content.Context;

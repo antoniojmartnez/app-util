@@ -1,5 +1,3 @@
-package com.ibs.tecnicos.seyte.app;
-
 import android.util.Log;
 
 import java.security.MessageDigest;

@@ -1,5 +1,3 @@
-package com.ibs.tecnicos.seyte.app;
-
 import android.app.Activity;
 import android.content.Intent;
 import android.net.Uri;

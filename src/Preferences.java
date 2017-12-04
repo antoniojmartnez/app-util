@@ -1,5 +1,3 @@
-package com.ibs.tecnicos.seyte.app;
-
 import android.content.Context;
 import android.content.SharedPreferences;
 import android.preference.PreferenceManager;

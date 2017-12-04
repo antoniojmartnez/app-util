@@ -1,5 +1,3 @@
-package com.ibs.tecnicos.seyte.app;
-
 import android.app.Application;
 import android.content.Context;
 import android.content.Intent;

@@ -1,5 +1,3 @@
-package com.ibs.tecnicos.seyte.app;
-
 import android.os.Bundle;
 
 public class Activity extends android.app.Activity {

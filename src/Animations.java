@@ -1,5 +1,3 @@
-package com.ibs.tecnicos.seyte.app;
-
 import android.view.View;
 import android.view.animation.AlphaAnimation;
 import android.view.animation.Animation;

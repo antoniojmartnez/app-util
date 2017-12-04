@@ -1,5 +1,3 @@
-package com.ibs.tecnicos.seyte.app;
-
 import android.content.pm.PackageManager;
 
 public class PackageInfo {

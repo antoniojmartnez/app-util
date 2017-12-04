@@ -1,5 +1,3 @@
-package com.ibs.tecnicos.seyte.app;
-
 import org.apache.http.conn.util.InetAddressUtils;
 
 import java.net.InetAddress;

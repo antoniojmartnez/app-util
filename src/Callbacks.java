@@ -1,4 +1,3 @@
-package com.ibs.tecnicos.seyte.app;
 
 public class Callbacks {
     public interface SimpleCallback {

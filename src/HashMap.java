@@ -1,5 +1,3 @@
-package com.ibs.tecnicos.seyte.app;
-
 /**
  * Extiende la clase HashMap de Java y le añade algunas funcionalidades extra
  *
